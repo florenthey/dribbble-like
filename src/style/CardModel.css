@@ -1,0 +1,13 @@
+#card {
+    width: 15%;
+    margin: 20px 0px;
+   }
+
+#wrap {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;        
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    }
