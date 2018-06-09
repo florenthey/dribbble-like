@@ -11,7 +11,7 @@ class Shots extends Component {
  
 render() {
 
-   const boucleTab = this.state.tableau.map((obj) => {
+   const tabLoop = this.state.tableau.map((obj) => {
 
        return (
 
@@ -20,7 +20,7 @@ render() {
    })  
    
    return(
-       <div id="wrap">{boucleTab}</div>
+       <div id="wrap">{tabLoop}</div>
    )
 }
 }

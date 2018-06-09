@@ -1,8 +1,8 @@
 import React from 'react'
 import '../style/CardModel.css';
 
-const CardModel = (props) => {
 
+const CardModel = (props) => {
 
         return(
 
