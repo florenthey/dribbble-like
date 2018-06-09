@@ -23,9 +23,6 @@ const Header = () => {
               <a className="nav-link" href="">Designers</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="">Designers</a>
-            </li>
-            <li className="nav-item">
               <a className="nav-link disabled" href="">Teams</a>
             </li>
             <li className="nav-item">
